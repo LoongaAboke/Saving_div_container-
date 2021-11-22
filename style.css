@@ -1,0 +1,12 @@
+body{
+	color: white;
+}
+p{
+	color: black;
+}
+
+.example{
+	width: 100px;
+	height: 100px;
+	background: black;
+}
